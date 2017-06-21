@@ -1,0 +1,1 @@
+Intermediate-level spreadsheet skills, including basic pivot tables, formulas, and sorting. But not filtering, or any other functionality highly tied to software vendor or operating system. Basically, everything you can do optimally in a spreadsheet before ever thinking about databases or using a scripting language like R or Python.
