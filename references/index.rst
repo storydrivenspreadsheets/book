@@ -5,10 +5,9 @@ References and Citations
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Topics:
+   :maxdepth: 1
 
-   spreadsheets-technical
+   spreadsheets-howto
    autonomous-driving
 
 

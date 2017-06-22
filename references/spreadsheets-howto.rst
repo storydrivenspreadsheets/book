@@ -5,6 +5,8 @@ Spreadsheets, How-To
 Information on how to actually do things with spreadsheets.
 
 
+.. contents::
+
 Articles
 ========
 
@@ -27,6 +29,7 @@ Books
 =====
 
 .. _data-journalism-handbook:
+
 The Data Journalism Handbook
 ++++++++++++++++++++++++++++
 by The European Journalism Centre and the Open Knowledge Foundation
@@ -36,7 +39,9 @@ http://datajournalismhandbook.org/
     Tagline: How Journalists Can Use Data to Improve the News
 
 
+
 .. _finding-stories-in-spreadsheets:
+
 Finding Stories in Spreadsheets
 +++++++++++++++++++++++++++++++
 by Paul Bradshaw
@@ -73,11 +78,12 @@ https://support.google.com/docs/table/25273?hl=en
 
     A tabular list of functions available in Google Spreadsheets, including syntax definition and category.
 
+
+
 .. _google-support-how-to-use-google-sheets:
 
 How to use Google Sheets
 ++++++++++++++++++++++++
-
 by Google Support
 https://support.google.com/docs/answer/75943?hl=en&ref_topic=1361471
 

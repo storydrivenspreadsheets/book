@@ -11,7 +11,8 @@ Story-Driven Spreadsheets
    :caption: Contents:
 
    intro/index
-
+   projects/index
+   references/index
 
 
 
