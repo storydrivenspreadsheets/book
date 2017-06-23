@@ -6,5 +6,5 @@ Hands-on Data Projects
    :maxdepth: 2
 
    autonomous-car-accident-reports/index
-
+   ferguson-michael-brown-witness-statements/index
 
